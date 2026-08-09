@@ -10,549 +10,698 @@
 
 # KODAMALA SUNDHARARAO
 
-### Computer Science & Engineering Student | Full Stack Developer | AI/ML Enthusiast
+### `Computer Science & Engineering` · `Full Stack Development` · `AI / ML`
 
-Building practical software solutions using modern web technologies, programming languages, machine learning, and cloud computing.
+**Engineering ideas into practical, scalable, and user-focused software.**
 
 <br/>
 
 <a href="https://www.linkedin.com/in/sundhararao-k-8baa50389/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:sundhararaokodamala5@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://portfolio-218.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=KODAMALASUNDHARARAO&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=KODAMALASUNDHARARAO&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
-
-I am a **Computer Science & Engineering student** currently pursuing my B.Tech at **Andhra Loyola Institute of Engineering and Technology, Vijayawada**.
-
-I am passionate about **Full Stack Development, Artificial Intelligence, Machine Learning, Cloud Computing, and Software Engineering**.
-
-I enjoy building practical projects that solve real-world problems and continuously improving my programming, development, and problem-solving skills.
-
-My technical interests include **MERN Stack, Python, Java, JavaScript, SQL, React Native, Machine Learning, and Cloud Computing**.
-
----
-
-# 🎯 Career Objective
-
-To work in a growth-oriented organization where I can apply my technical knowledge, develop real-world software solutions, continuously improve my skills, and contribute effectively to the success of the organization.
-
----
-
-# 🎓 Education
-
-### Bachelor of Technology — Computer Science & Engineering
-
-**Andhra Loyola Institute of Engineering and Technology, Vijayawada**
-
-* **CGPA:** 8.0
-* **Duration:** 2024 – 2027
-
-### Diploma — Computer Engineering / CME
-
-**MVRS, Paritala**
-
-* **Percentage:** 78%
-* **Duration:** 2021 – 2024
-
-### Secondary Education — SSC
-
-**Sri Sarada Vidyaniketan High School, Makkapet**
-
-* **GPA:** 9.8
-* **Year:** 2021
-
----
-
-# 🛠️ Technical Skills
-
-## Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark" />
-</p>
-
-* Python
-* Java
-* JavaScript (ES6+)
-* C
-* SQL
-
----
-
-## Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-</p>
-
-* HTML5
-* CSS3
-* JavaScript
-* React.js
-* Responsive Web Design
-* Component-Based Development
-
----
-
-## Full Stack Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" />
-</p>
-
-* MongoDB
-* Express.js
-* React.js
-* Node.js
-* MERN Stack
-* REST API Development
-
----
-
-## Mobile App Development
-
-* React Native
-* Mobile UI Development
-* Component-Based Architecture
-* Navigation
-* Responsive Mobile Interfaces
-
----
-
-## Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-</p>
-
-* Git
-* GitHub
-* Visual Studio Code
-* AI Development Tools
-
----
-
-# 🚀 Featured Projects
-
-## 🌦️ 01 — Project Blue Planet
-
-### Real-Time Weather Forecasting Application
-
-**Blue Planet** is a weather forecasting application designed to provide users with real-time weather information through a clean and user-friendly interface.
-
-### Features
-
-* Real-time weather updates
-* Temperature information
-* Current climate conditions
-* Daily weather information
-* Upcoming weather information
-* Clean and responsive user interface
-* User-friendly design
-
-### Project Focus
+# `01` — ENGINEERING PROFILE
 
 ```text
-Real-Time Weather
-API Integration
-Responsive UI
-User Experience
-Data Presentation
+┌──────────────────────────────────────────────────────────────────────┐
+│                         SUNDHARARAO                                   │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  ROLE        → Computer Science & Engineering Student                │
+│  FOCUS       → Full Stack Development + AI / ML                     │
+│  CORE        → Python · Java · JavaScript · C · SQL                  │
+│  WEB         → React · Node.js · Express · MongoDB                   │
+│  MOBILE      → React Native                                          │
+│  CLOUD       → AWS                                                    │
+│  SECURITY    → Cryptography / Secure Communication                    │
+│  TOOLING     → Git · GitHub · VS Code                                 │
+│                                                                      │
+│  LOCATION    → Vijayawada, Andhra Pradesh, India                     │
+│  STATUS      → B.Tech CSE · 2024 — 2027                              │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+I am a **Computer Science & Engineering student** focused on building practical software products across **full-stack development, artificial intelligence, machine learning, mobile development, and cloud computing**.
+
+Rather than learning technologies in isolation, I prefer a **build-first engineering approach** — learn a concept, apply it to a project, test it, improve it, and deploy it.
+
+---
+
+# `02` — ENGINEERING MINDSET
+
+```text
+                    ┌──────────────┐
+                    │    IDEA      │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │    DESIGN    │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │    BUILD     │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │    TEST      │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │   IMPROVE    │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │   DEPLOY     │
+                    └──────┬───────┘
+                           ↓
+                    ┌──────────────┐
+                    │    LEARN     │
+                    └──────────────┘
+```
+
+### Core principles
+
+* **Build over theory**
+* **Clean and maintainable code**
+* **Security-conscious development**
+* **Responsive user experiences**
+* **Continuous technical learning**
+* **Real-world problem solving**
+
+---
+
+# `03` — TECHNOLOGY MATRIX
+
+## Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,js&perline=8"/>
+</p>
+
+| Technology | Focus                              |
+| ---------- | ---------------------------------- |
+| Python     | Application Development · AI / ML  |
+| Java       | Programming · Backend Fundamentals |
+| JavaScript | Web Development                    |
+| C          | Programming Fundamentals           |
+| SQL        | Database Querying                  |
+
+---
+
+## Full Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb&perline=8"/>
+</p>
+
+```text
+Frontend
+    ├── HTML5
+    ├── CSS3
+    ├── JavaScript
+    └── React.js
+
+Backend
+    ├── Node.js
+    └── Express.js
+
+Database
+    └── MongoDB
+
+Architecture
+    └── MERN Stack
 ```
 
 ---
 
-# 🔐 02 — Project KAVACH
+## Mobile
 
-### Secure Message Encryption & Communication System
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react&perline=8"/>
+</p>
 
-**Project KAVACH** is a message security application designed to protect communication by encrypting messages before transmission.
+```text
+React Native
+├── UI Development
+├── Component Architecture
+├── Navigation
+└── Mobile Application Interfaces
+```
 
-The project focuses on secure communication and message privacy by applying cryptographic techniques.
+---
 
-### Features
+## Development Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=8"/>
+</p>
+
+**Git · GitHub · Visual Studio Code · AI Development Tools**
+
+---
+
+# `04` — PROJECT LAB
+
+## 🔐 PROJECT KAVACH
+
+### Secure Message Encryption & Communication
+
+> **A security-focused communication application designed around message privacy and encrypted transmission.**
+
+KAVACH focuses on protecting messages before transmission using cryptographic techniques, creating a secure communication workflow.
+
+```text
+USER
+ │
+ │  Plain Message
+ ▼
+┌─────────────────────┐
+│   ENCRYPTION LAYER  │
+└──────────┬──────────┘
+           │
+           │ Encrypted Data
+           ▼
+┌─────────────────────┐
+│  SECURE TRANSMISSION│
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│   DECRYPTION LAYER  │
+└──────────┬──────────┘
+           │
+           ▼
+     ORIGINAL MESSAGE
+```
+
+### Engineering Focus
+
+`Cryptography` · `Secure Communication` · `Message Privacy` · `Application Deployment`
+
+### Highlights
 
 * Message encryption
 * Message decryption
-* Secure communication
-* Privacy-focused messaging
-* Real-time message exchange
-* Application deployment
-
-### Project Focus
-
-```text
-Cryptography
-Message Security
-Secure Communication
-Web Application
-Application Deployment
-```
+* Secure message transmission
+* Privacy-oriented architecture
+* Real-time communication workflow
+* Successfully deployed application
 
 ---
 
-# 🌱 03 — Plant Disease Detection
+# 🌱 PROJECT — PLANT DISEASE DETECTION
 
-### Machine Learning-Based Plant Disease Classification
+### Machine Learning-Based Image Classification
 
-Developed a machine learning-based system to detect and classify plant diseases from leaf images.
+A machine learning project designed to detect and classify plant diseases from leaf images.
 
-The project uses image preprocessing and classification techniques to identify disease patterns and provide early detection support for healthier crop management.
-
-### Key Areas
-
-* Machine Learning
-* Image Processing
-* Image Preprocessing
-* Image Classification
-* Disease Detection
-* Pattern Recognition
-
-### Project Objective
+The system applies image preprocessing and classification techniques to identify disease patterns and provide early detection support for healthier crop management.
 
 ```text
-Leaf Image
-     ↓
-Image Preprocessing
-     ↓
-Feature Analysis
-     ↓
-Classification
-     ↓
-Disease Detection
+             LEAF IMAGE
+                 │
+                 ▼
+        ┌─────────────────┐
+        │ PREPROCESSING   │
+        └────────┬────────┘
+                 │
+                 ▼
+        ┌─────────────────┐
+        │ FEATURE / IMAGE  │
+        │    ANALYSIS      │
+        └────────┬────────┘
+                 │
+                 ▼
+        ┌─────────────────┐
+        │ CLASSIFICATION   │
+        └────────┬────────┘
+                 │
+                 ▼
+          DISEASE RESULT
 ```
+
+### Engineering Focus
+
+`Machine Learning` · `Image Processing` · `Classification` · `Computer Vision`
 
 ---
 
-# 🧠 04 — Brain Tumor Detection
+# 🧠 PROJECT — BRAIN TUMOR DETECTION
 
-### Machine Learning-Based MRI Image Analysis
+### MRI-Based Machine Learning Analysis
 
-Developed a machine learning-based system to detect brain tumor patterns from MRI images.
+A machine learning-based project designed to identify tumor patterns from MRI images.
 
 The project applies image preprocessing and classification techniques to support faster and more accurate medical image analysis.
 
-### Key Areas
-
-* Machine Learning
-* MRI Image Processing
-* Image Preprocessing
-* Classification
-* Pattern Detection
-* Medical Image Analysis
-
-### Project Objective
-
 ```text
-MRI Image
-    ↓
-Image Preprocessing
-    ↓
-Pattern Analysis
-    ↓
-Classification
-    ↓
-Tumor Detection
+             MRI IMAGE
+                 │
+                 ▼
+        ┌─────────────────┐
+        │ IMAGE CLEANING  │
+        └────────┬────────┘
+                 │
+                 ▼
+        ┌─────────────────┐
+        │ PREPROCESSING   │
+        └────────┬────────┘
+                 │
+                 ▼
+        ┌─────────────────┐
+        │ CLASSIFICATION  │
+        └────────┬────────┘
+                 │
+                 ▼
+          PATTERN RESULT
 ```
+
+### Engineering Focus
+
+`Machine Learning` · `MRI Analysis` · `Image Processing` · `Classification`
 
 ---
 
-# 💼 Experience
+# 🌦️ PROJECT — BLUE PLANET
 
-## 🐍 Python Full Stack Development Intern
+### Real-Time Weather Intelligence Interface
+
+Blue Planet is a weather forecasting application designed to provide real-time weather information through a clean, accessible, and user-friendly interface.
+
+### Core Capabilities
+
+```text
+Real-Time Weather
+       │
+       ├── Temperature
+       ├── Climate Conditions
+       ├── Current Weather
+       └── Upcoming Weather
+```
+
+### Engineering Focus
+
+`Weather Data` · `Real-Time Information` · `Frontend Development` · `Responsive UI`
+
+---
+
+# `05` — EXPERIENCE
+
+## Python Full Stack Development Intern
 
 ### EXCELR
 
-Successfully completed a short-term internship focused on **Python Full Stack Development**.
+Completed a short-term internship focused on **Python Full Stack Development**.
 
-### Experience
-
-* Practiced Python programming
-* Worked with full-stack development concepts
-* Improved frontend development knowledge
-* Strengthened backend development fundamentals
-* Worked on practical development activities
-* Gained exposure to software development workflows
-
----
-
-# 🏆 Workshops & Activities
-
-## 🔐 Project KAVACH Hackathon
-
-Participated in a **3-hour Project KAVACH Hackathon**, gaining practical experience in project development, collaboration, and problem solving.
-
----
-
-## ☁️ Cloud Computing Workshop
-
-Participated in a **7-day Cloud Computing Workshop**, gaining exposure to cloud computing concepts and technologies.
-
----
-
-# 📜 Certifications
-
-## ☁️ Cloud Computing — AWS
-
-Successfully completed a **Cloud Computing course offered by AWS**.
-
----
-
-## 🤖 Generative AI — Google Cloud
-
-Successfully completed a **Generative AI certification offered by Google Cloud**.
-
----
-
-# 🤖 AI & Machine Learning Interests
-
-My AI/ML interests include:
+### Engineering Exposure
 
 ```text
-Machine Learning
-Computer Vision
-Image Classification
-Image Preprocessing
-Pattern Recognition
-Generative AI
-AI-Based Applications
+Python
+  ↓
+Frontend Development
+  ↓
+Backend Development
+  ↓
+Full Stack Concepts
+  ↓
+Practical Application Development
 ```
 
-I am particularly interested in applying AI and machine learning to practical problems through project-based learning.
+The internship strengthened my understanding of full-stack application development and provided practical exposure to software development workflows.
 
 ---
 
-# ☁️ Cloud Computing
-
-I have developed foundational knowledge in cloud computing through coursework, certification, and workshop participation.
-
-### Areas of Interest
-
-```text
-Cloud Fundamentals
-Cloud Services
-Cloud Infrastructure
-Application Deployment
-AWS
-```
-
----
-
-# 📱 Mobile Development
-
-I have experience with **React Native** for mobile application development.
-
-### Focus Areas
-
-* UI development
-* Reusable components
-* Component-based architecture
-* Navigation
-* Responsive mobile interfaces
-
----
-
-# 🧩 Soft Skills
-
-| Skill               | Description                                    |
-| ------------------- | ---------------------------------------------- |
-| Communication       | Clear and effective communication              |
-| Leadership          | Ability to take responsibility and guide tasks |
-| Teamwork            | Comfortable working collaboratively            |
-| Problem Solving     | Analytical approach to technical challenges    |
-| Adaptability        | Willingness to learn new technologies          |
-| Continuous Learning | Consistent improvement of technical skills     |
-
----
-
-# 🌐 Languages
-
-| Language | Proficiency  |
-| -------- | ------------ |
-| English  | Professional |
-| Telugu   | Native       |
-
----
-
-# 🎮 Hobbies & Interests
-
-* Vibe Coding
-* Exploring New Domains
-* Learning New Technologies
-* Building Technical Projects
-* Exploring AI Tools
-
----
-
-# 📚 Current Learning
-
-```text
-┌──────────────────────────────────────┐
-│         CURRENT LEARNING PATH        │
-├──────────────────────────────────────┤
-│                                      │
-│  Full Stack Development              │
-│      ├── React.js                    │
-│      ├── Node.js                     │
-│      ├── Express.js                  │
-│      └── MongoDB                     │
-│                                      │
-│  Programming                         │
-│      ├── Python                      │
-│      ├── Java                        │
-│      ├── JavaScript                  │
-│      └── C                           │
-│                                      │
-│  Artificial Intelligence             │
-│      ├── Machine Learning             │
-│      ├── Generative AI               │
-│      └── Computer Vision             │
-│                                      │
-│  Cloud Computing                     │
-│      └── AWS                          │
-│                                      │
-└──────────────────────────────────────┘
-```
-
----
-
-# 💡 Development Philosophy
-
-```text
-              LEARN
-                ↓
-              BUILD
-                ↓
-               TEST
-                ↓
-             IMPROVE
-                ↓
-             DEPLOY
-                ↓
-             REPEAT
-```
-
-> "The best way to learn technology is by building real projects and solving real problems."
-
----
-
-# 🎯 Career Interests
-
-I am interested in opportunities related to:
-
-* Software Engineering
-* Full Stack Development
-* Frontend Development
-* Backend Development
-* Python Development
-* Java Development
-* AI / ML
-* Cloud Computing
-* Application Development
-
----
-
-# 📊 GitHub Statistics
+# `06` — CERTIFICATIONS
 
 <div align="center">
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=KODAMALASUNDHARARAO&show_icons=true&hide_border=true&theme=transparent"
-alt="GitHub Statistics"/>
+| Certification      | Provider     |
+| ------------------ | ------------ |
+| ☁️ Cloud Computing | AWS          |
+| 🤖 Generative AI   | Google Cloud |
 
-<img height="165"
-src="https://github-readme-streak-stats.herokuapp.com/?user=KODAMALASUNDHARARAO&hide_border=true&theme=transparent"
-alt="GitHub Streak"/>
+</div>
 
-<br/><br/>
+### AWS — Cloud Computing
 
-<img height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=KODAMALASUNDHARARAO&layout=compact&hide_border=true&theme=transparent"
-alt="Top Languages"/>
+Successfully completed a Cloud Computing course offered by **AWS**.
+
+### Google Cloud — Generative AI
+
+Successfully completed a Generative AI certification offered by **Google Cloud**.
+
+---
+
+# `07` — COMPETITIVE ENGINEERING
+
+## Workshops & Hackathon Experience
+
+### ⚡ Project KAVACH Hackathon
+
+**3-hour hackathon**
+
+Participated in a hands-on project development environment focused on building solutions under a limited timeframe.
+
+### ☁️ Cloud Computing Workshop
+
+**7-day workshop**
+
+Participated in an intensive cloud computing workshop to strengthen understanding of cloud concepts and technologies.
+
+---
+
+# `08` — AI / ML TRACK
+
+My current technical direction includes building a stronger foundation in artificial intelligence and machine learning.
+
+```text
+                  ARTIFICIAL INTELLIGENCE
+                           │
+             ┌─────────────┼─────────────┐
+             ↓             ↓             ↓
+        MACHINE LEARNING  GEN AI    COMPUTER VISION
+             │             │             │
+             ↓             ↓             ↓
+        CLASSIFICATION   AI TOOLS   IMAGE ANALYSIS
+             │
+             ↓
+       REAL-WORLD PROJECTS
+```
+
+### Current Areas
+
+* Machine Learning
+* Computer Vision
+* Image Classification
+* Image Preprocessing
+* Generative AI
+* AI-based Applications
+* Pattern Recognition
+
+---
+
+# `09` — FULL STACK ARCHITECTURE
+
+```text
+                         CLIENT
+                           │
+              ┌────────────┴────────────┐
+              │                         │
+          WEB CLIENT              MOBILE CLIENT
+              │                         │
+              ▼                         ▼
+           React                  React Native
+              │                         │
+              └────────────┬────────────┘
+                           │
+                           ▼
+                     REST / API LAYER
+                           │
+                           ▼
+                    Node.js / Express
+                           │
+                           ▼
+                        MongoDB
+```
+
+### Development Stack
+
+**Frontend →** HTML · CSS · JavaScript · React
+
+**Backend →** Node.js · Express
+
+**Database →** MongoDB
+
+**Mobile →** React Native
+
+**Programming →** Python · Java · C · JavaScript · SQL
+
+---
+
+# `10` — SECURITY INTEREST
+
+Security became a practical area of interest through **Project KAVACH** and cryptographic application development.
+
+```text
+SECURITY
+   │
+   ├── Message Privacy
+   ├── Encryption
+   ├── Secure Transmission
+   └── Secure Application Design
+```
+
+The objective is to understand how security principles can be integrated into applications rather than treated as an afterthought.
+
+---
+
+# `11` — EDUCATION
+
+## B.Tech — Computer Science & Engineering
+
+**Andhra Loyola Institute of Engineering and Technology**
+
+`2024 — 2027` · `8.0 CGPA`
+
+---
+
+## Diploma — CME
+
+**MVRS, Paritala**
+
+`2021 — 2024` · `78%`
+
+---
+
+## SSC
+
+**Sri Sarada Vidyaniketan High School, Makkapet**
+
+`2021` · `9.8 GPA`
+
+---
+
+# `12` — ENGINEERING PROFILE
+
+<div align="center">
+
+| Area              | Profile                |
+| ----------------- | ---------------------- |
+| 🎓 Degree         | B.Tech — CSE           |
+| 💻 Primary Domain | Full Stack Development |
+| 🐍 Python         | Development + AI/ML    |
+| ☕ Java            | Programming            |
+| ⚡ JavaScript      | Web Development        |
+| 🌐 MERN           | Full Stack             |
+| 📱 React Native   | Mobile Development     |
+| 🤖 AI / ML        | Project Experience     |
+| ☁️ AWS            | Cloud Fundamentals     |
+| 🔐 Cryptography   | KAVACH Project         |
+| 🧰 Git            | Version Control        |
+| 🐙 GitHub         | Development Workflow   |
 
 </div>
 
 ---
 
-# 📈 GitHub Activity
+# `13` — SOFT SKILLS
+
+```text
+┌─────────────────────────────────────────────┐
+│              PROFESSIONAL SKILLS            │
+├─────────────────────────────────────────────┤
+│                                             │
+│  Communication          Leadership          │
+│  Problem Solving        Team Collaboration  │
+│  Adaptability           Continuous Learning │
+│  Technical Curiosity    Responsibility      │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+---
+
+# `14` — CURRENT MISSION
+
+```yaml
+mission:
+  objective: "Become a strong software engineer"
+
+focus:
+  - Full Stack Development
+  - Data Structures & Algorithms
+  - Python
+  - Java
+  - JavaScript
+  - Machine Learning
+  - Generative AI
+  - Cloud Computing
+
+build:
+  - Real-world applications
+  - AI/ML projects
+  - Full-stack products
+  - Secure applications
+
+philosophy:
+  - Learn deeply
+  - Build consistently
+  - Solve real problems
+  - Improve continuously
+```
+
+---
+
+# `15` — DEVELOPMENT ROADMAP
+
+```text
+                         SOFTWARE ENGINEERING
+                                  │
+             ┌────────────────────┼────────────────────┐
+             │                    │                    │
+             ▼                    ▼                    ▼
+        DEVELOPMENT              AI/ML               CLOUD
+             │                    │                    │
+       ┌─────┼─────┐        ┌─────┼─────┐             │
+       ▼     ▼     ▼        ▼     ▼     ▼             ▼
+     FRONT  BACK   DB      ML    CV    GEN AI         AWS
+       │     │     │
+       └─────┴─────┘
+             │
+             ▼
+       FULL STACK SYSTEMS
+             │
+             ▼
+       PRODUCTION PROJECTS
+```
+
+---
+
+# `16` — GITHUB
 
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=KODAMALASUNDHARARAO&theme=github-compact&hide_border=true"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent"
+height="170"
+alt="GitHub Statistics"
+/>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent"
+height="170"
+alt="GitHub Streak"
+/>
+
+<br/><br/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent"
+height="170"
+alt="Top Languages"
+/>
+
+</div>
+
+---
+
+# `17` — DEVELOPMENT ACTIVITY
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true"
 width="100%"
-alt="GitHub Activity Graph"/>
+alt="GitHub Activity"
+/>
 
 </div>
 
 ---
 
-# 🏅 Developer Profile
+# `18` — BEYOND CODE
 
-<div align="center">
+### Interests
 
-| Category         | Details                   |
-| ---------------- | ------------------------- |
-| 🎓 Education     | B.Tech CSE                |
-| 💻 Primary Focus | Full Stack Development    |
-| 🐍 Programming   | Python                    |
-| ☕ Programming    | Java                      |
-| 🌐 Web           | MERN Stack                |
-| 📱 Mobile        | React Native              |
-| 🤖 AI/ML         | Machine Learning Projects |
-| ☁️ Cloud         | AWS                       |
-| 🔐 Security      | Cryptography              |
-| 🧰 Tools         | Git, GitHub, VS Code      |
+```text
+Vibe Coding
+Exploring New Domains
+Technology Exploration
+AI Tools
+Building Side Projects
+Learning New Technologies
+```
 
-</div>
+### Languages
+
+`English` · `Telugu`
 
 ---
 
-# 📫 Let's Connect
+# `19` — CAREER DIRECTION
+
+I am actively interested in opportunities where I can contribute to engineering teams, work on real-world products, and grow through challenging technical problems.
+
+### Target Domains
+
+```text
+Software Engineering
+        │
+        ├── Full Stack Development
+        ├── Backend Development
+        ├── Frontend Development
+        ├── Python Development
+        ├── Java Development
+        ├── AI / ML
+        └── Cloud Computing
+```
+
+---
+
+# `20` — CONNECT
 
 <div align="center">
+
+### Let's build something meaningful.
+
+<br/>
 
 <a href="mailto:sundhararaokodamala5@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sundhararao-k-8baa50389/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://portfolio-218.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
 
----
+**KODAMALA SUNDHARARAO**
 
-<div align="center">
+`Computer Science & Engineering` · `Full Stack` · `AI / ML`
 
-### 🚀 Learn • Build • Innovate • Grow
-
-<p>
-Computer Science & Engineering Student | Full Stack Developer | AI/ML Enthusiast
-</p>
-
-<br/>
+<br/><br/>
 
 <img
 src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0f172a"
